@@ -1,7 +1,4 @@
-[client]
-logger.level = "error"
-
 [server]
-port = 8503
 enableCORS = false
 maxUploadSize = 200
+headless = true
