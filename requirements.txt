@@ -15,6 +15,7 @@ accelerate>=0.20.0
 # Chemistry & Molecular Analysis
 rdkit-pypi>=2023.9.0
 pubchempy>=1.0.4
+pubchempy
 
 # Visualization
 graphviz
