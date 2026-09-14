@@ -1,0 +1,12 @@
+# Production requirements for Streamlit Cloud
+# Optimized for deployment
+
+streamlit==1.63.0
+pandas==3.0.5
+numpy==2.5.3
+networkx
+plotly
+graphviz
+
+# Optional: For production features
+requests>=2.31.0
