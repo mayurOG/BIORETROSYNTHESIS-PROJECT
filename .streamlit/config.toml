@@ -1,19 +1,7 @@
+[client]
+logger.level = "error"
+
 [server]
 port = 8503
-enableXsrfProtection = true
+enableCORS = false
 maxUploadSize = 200
-enableCORS = true
-headless = true
-
-[theme]
-primaryColor = "#1f77b4"
-backgroundColor = "#ffffff"
-secondaryBackgroundColor = "#f0f2f6"
-textColor = "#262730"
-font = "sans serif"
-
-[logger]
-level = "error"
-
-[browser]
-gatherUsageStats = false
