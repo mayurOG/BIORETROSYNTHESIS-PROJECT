@@ -2,6 +2,8 @@
 
 **Developed and Maintained by Mayur Nhavalde**
 
+DEPLOYED ON STREAMLIT :(https://bioretrosynthesis-sqkvpfbfuld8cnfydpdy8v.streamlit.app/)
+
 ## Overview
 
 A production-ready Streamlit application for **universal retrosynthesis prediction** supporting:
